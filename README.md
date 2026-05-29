@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=696969&multiline=true&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Andrei;Estudo+Ci%C3%AAncia+de+Dados+na+EBAC)](https://git.io/typing-svg)
 <br />
 <br />
-[![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreifirstofhisname&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=graywhite&locale=pt-br&rank_icon=github&include_all_commits=True)](https://github.com/andreifirstofhisname/github-readme-stats)
 
 
 <!--
